@@ -1,3 +1,4 @@
+package numberpyramid;
 /**
  * Nuber Pyramid Soluition (no for loops)
  */
